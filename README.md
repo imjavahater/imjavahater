@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Kennard Troy G. Sanchez</h1>
-<h3 align="center">currently an analyst in a financial technology multinational-company</h3>
+<h3 align="center">currently an analyst in a fin-tech company</h3>
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/this-mkhy/Dev-Connections/master/Images/why-contribute.gif">
 
